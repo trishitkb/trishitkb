@@ -45,7 +45,7 @@ More about me: [My Website](https://yourwebsite.com)
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/trishitkb">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=X&logoColor=white" />
 </a>
   <a href="mailto:trishitkantibhuinya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
