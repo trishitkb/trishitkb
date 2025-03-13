@@ -4,14 +4,14 @@ I'm a Full Stack Web Developer from India.
 More about me: [My Website](https://yourwebsite.com)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trishitkb&show_icons=true&theme=dark" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishitkb&layout=compact&theme=dark" height="165" />
 </p>
 
----
+-->
 
 ## 🏆 GitHub Profile Stats
 <p align="center">
