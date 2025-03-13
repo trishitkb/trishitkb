@@ -1,6 +1,7 @@
 # Hi 👋! I'm Trishit.
-I'm a Full Stack Web Developer from India.  
-
+I'm a Full Stack Web Developer from India.
+---
+<!--
 More about me: [My Website](https://yourwebsite.com)
 
 ---
@@ -40,12 +41,14 @@ More about me: [My Website](https://yourwebsite.com)
   <a href="https://instagram.com/trishitkb">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:trishitkantibhuinya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!--
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+  -->
 </p>
 
 <!--
